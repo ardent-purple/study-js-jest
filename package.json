@@ -1,0 +1,20 @@
+{
+  "name": "template-js-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.1",
+    "nodemon": "^2.0.7",
+    "yarn": "^1.22.10"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
